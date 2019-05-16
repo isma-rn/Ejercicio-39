@@ -1,0 +1,14 @@
+C:\Users\Fam RN\source\Ejercicios C\E39_ElevarA_a_B\E39_ElevarA_a_B\bin\Debug\E39_ElevarA_a_B.exe.config
+C:\Users\Fam RN\source\Ejercicios C\E39_ElevarA_a_B\E39_ElevarA_a_B\bin\Debug\E39_ElevarA_a_B.exe
+C:\Users\Fam RN\source\Ejercicios C\E39_ElevarA_a_B\E39_ElevarA_a_B\bin\Debug\E39_ElevarA_a_B.pdb
+C:\Users\Fam RN\source\Ejercicios C\E39_ElevarA_a_B\E39_ElevarA_a_B\obj\Debug\E39_ElevarA_a_B.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\Ejercicios C\E39_ElevarA_a_B\E39_ElevarA_a_B\obj\Debug\E39_ElevarA_a_B.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\Ejercicios C\E39_ElevarA_a_B\E39_ElevarA_a_B\obj\Debug\E39_ElevarA_a_B.exe
+C:\Users\Fam RN\source\Ejercicios C\E39_ElevarA_a_B\E39_ElevarA_a_B\obj\Debug\E39_ElevarA_a_B.pdb
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E39_ElevarA_a_B\E39_ElevarA_a_B\bin\Debug\E39_ElevarA_a_B.exe.config
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E39_ElevarA_a_B\E39_ElevarA_a_B\bin\Debug\E39_ElevarA_a_B.exe
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E39_ElevarA_a_B\E39_ElevarA_a_B\bin\Debug\E39_ElevarA_a_B.pdb
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E39_ElevarA_a_B\E39_ElevarA_a_B\obj\Debug\E39_ElevarA_a_B.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E39_ElevarA_a_B\E39_ElevarA_a_B\obj\Debug\E39_ElevarA_a_B.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E39_ElevarA_a_B\E39_ElevarA_a_B\obj\Debug\E39_ElevarA_a_B.exe
+C:\Users\Yesica Moreno\source\Repo_EC_S8\E39_ElevarA_a_B\E39_ElevarA_a_B\obj\Debug\E39_ElevarA_a_B.pdb
