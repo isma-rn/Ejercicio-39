@@ -74,7 +74,7 @@ namespace E39_ElevarA_a_B
                 } while (true);
             } while (!salir);            
         }
-        private static double? ElevarAPotencia(int numero, int exponente)
+        private static double ElevarAPotencia(int numero, int exponente)
         {
             if (numero != 0 && exponente != 0 || numero == 1)
             {
